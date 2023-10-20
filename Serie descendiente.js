@@ -7,5 +7,5 @@ function secuenciaDescendente(numero) {
       return 0;
   }
 }
-const numeroEntero = parseInt(prompt("Introduce un número ENTERO:"));
-secuenciaDescendente(numeroEntero);
+numero = 8;
+secuenciaDescendente(numero);
