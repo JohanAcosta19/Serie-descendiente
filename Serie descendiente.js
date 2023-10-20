@@ -7,5 +7,5 @@ function secuenciaDescendente(numero) {
       return 0;
   }
 }
-numero = 8;
+numero = 8; //Aquí se inserta dl número entero positivo del cua se va a descender
 secuenciaDescendente(numero);
